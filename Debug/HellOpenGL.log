@@ -1,0 +1,38 @@
+﻿Build started 5/02/2015 12:17:25 PM.
+     1>Project "C:\Users\Shelby\Documents\Visual Studio 2013\Projects\HellOpenGL\HellOpenGL.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I./dep/inc /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GameObject.cpp Tank.cpp main.cpp
+         main.cpp
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\input.h(29): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\input.h(32): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\input.h(49): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\input.h(59): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\camera.h(5): warning C4091: 'extern ' : ignored on left of 'const unsigned int' when no variable is declared
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\camera.h(5): error C2143: syntax error : missing ';' before 'constant'
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\camera.h(5): error C2059: syntax error : 'constant'
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\camera.h(24): warning C4244: 'argument' : conversion from 'const unsigned int' to 'float', possible loss of data
+         Tank.cpp
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\input.h(29): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\input.h(32): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\input.h(49): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\input.h(59): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\camera.h(5): warning C4091: 'extern ' : ignored on left of 'const unsigned int' when no variable is declared
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\camera.h(5): error C2143: syntax error : missing ';' before 'constant'
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\camera.h(5): error C2059: syntax error : 'constant'
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\camera.h(24): warning C4244: 'argument' : conversion from 'const unsigned int' to 'float', possible loss of data
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\tank.cpp(12): warning C4305: '=' : truncation from 'double' to 'float'
+         GameObject.cpp
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\input.h(29): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\input.h(32): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\input.h(49): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\input.h(59): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\camera.h(5): warning C4091: 'extern ' : ignored on left of 'const unsigned int' when no variable is declared
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\camera.h(5): error C2143: syntax error : missing ';' before 'constant'
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\camera.h(5): error C2059: syntax error : 'constant'
+     1>c:\users\shelby\documents\visual studio 2013\projects\hellopengl\camera.h(24): warning C4244: 'argument' : conversion from 'const unsigned int' to 'float', possible loss of data
+         Generating Code...
+     1>Done Building Project "C:\Users\Shelby\Documents\Visual Studio 2013\Projects\HellOpenGL\HellOpenGL.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.73
